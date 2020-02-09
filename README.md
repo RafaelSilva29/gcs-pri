@@ -1,2 +1,7 @@
-# GCS-PRI_1920
-Trabalho prático do perfil de PLC do 1ºsemestre
+# [PLC] - GCS/PRI (19/20)
+
+#### Trabalho prático do perfil de PLC(Processamento de Linguagens e Compiladores) do 1ºsemestre
+
+### Mestrado Integrado em Engenharia Informática
+
+## Universidade do Minho
